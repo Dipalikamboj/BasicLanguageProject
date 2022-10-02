@@ -1,2 +1,2 @@
 # BasicLanguageProject
-Just a simple repo.
+Just a simple repository 
